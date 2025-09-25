@@ -1,6 +1,4 @@
-# virus_tm_ultra_owners_prominent.py
-# Ultra Panel — Owners displayed everywhere (very prominent)
-# Run: python virus_tm_ultra_owners_prominent.py
+
 
 import os
 import sys
